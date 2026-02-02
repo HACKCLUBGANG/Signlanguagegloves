@@ -2,7 +2,8 @@
 
 I am trying to make 2 gloves for sign language! Theres alot of hardware such as esp32,flex sensors, gyroscope, etc!
 it uses the gyroscope and flex sensors to find multiple words and find the word that theyre trying to say.
-This glove is for now a prototype for showcasing use 
+This glove is for now a prototype for showcasing use.
+Both of the esp will communicate using ESP-NOW which is a wireless communication protocol which helps with both of the esp(hands) to communicate 
 
 # Circuit and Pcb
 
