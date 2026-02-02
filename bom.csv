@@ -1,19 +1,17 @@
-Component,Quantity,Unit Price (₹),Subtotal (₹),Subtotal (USD)
-ESP32 Dev Board,2,389,778,8.64
-0.96" OLED Display,2,189,378,4.20
-Flex Sensor 2.2",10,289,2890,32.11
-MPU Gyroscope (MPU-6500),2,139,278,3.09
-DFPlayer Mini,1,109,109,1.21
-Micro SD Card 16GB,1,319,319,3.54
-10kΩ Resistors (50 pcs),1 pack,135,135,1.50
-Heat Shrink Tubing,1 pack,124,124,1.38
-Mini Rocker Switch,2,6.5,13,0.14
-Mini Speaker 8Ω,1,98,98,1.09
-Li-ion 500mAh Battery,2,275,550,6.11
-TP4056 Charging Module,2,16,32,0.36
-Pliers / Wire Stripper,1,62,62,0.69
-Dupont Jumper Wires (pack),2,18,36,0.40
-Breadboard,1,59,59,0.66
-Male-Male Jumper Wires,1,99,99,1.10
-Shipping Estimate,-,-,300,3.33
-Total,-,-,6480,72.00
+Component,Quantity,Unit Price (₹),Subtotal (₹),Subtotal (USD),Website
+Metal Shell Mini Internal Magnet Toy Speaker – 28mm 8Ω 1W,1,23.00,23.00,0.26,https://makerbazar.in/products/metal-shell-mini-speake-internal-magnet-toy-speaker?variant=48772028072176
+Red Heat Shrink Sleeve Tube – 2mm / 1m,2,10.00,20.00,0.22,https://makerbazar.in/products/heat-shrink-tube-red-in-meters?variant=40113577132183
+Black Heat Shrink Sleeve Tube – 2mm / 1m,2,8.00,16.00,0.18,https://makerbazar.in/products/heat-shrink?variant=19627635212384
+PVC Copper Wire 1.0mm² – Black / 1m,1,15.00,15.00,0.17,https://makerbazar.in/products/1-5mm-pvc-insulated-single-core-flexible-copper-wire-roll?variant=45455283847408
+PVC Copper Wire 1.0mm² – Red / 1m,2,15.00,30.00,0.33,https://makerbazar.in/products/1-5mm-pvc-insulated-single-core-flexible-copper-wire-roll?variant=45455283781872
+Carbon Film Resistor DIP 1/4W 10kΩ / Pack of 20,1,15.00,15.00,0.17,https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm?variant=47248529621232
+1.3″ I2C/IIC OLED Display Module – White,2,359.00,718.00,7.98,https://makerbazar.in/products/oled-display-1-3-inch-white?variant=48251187364080
+TC4056 1A 5V‑6V Lithium Battery Charging Module – Type‑C,2,25.00,50.00,0.56,https://makerbazar.in/products/tc4056-1a-5v-6v-4-2v-micro-usb-with-current-protection-lithium-battery-charging-module?variant=48251130937584
+KP: 1000 mAh 3.7 V Li‑Po Battery – Single Cell,2,199.00,398.00,4.42,https://makerbazar.in/products/kp-423048-lipo-battery-single-cell-3-7-v-1000mah-lithium-polymer-battery?variant=48251177566448
+Mini MP3 Player Disk TF Card Module – Serial Port,1,119.00,119.00,1.32,https://makerbazar.in/products/mini-df-mp3-player-module?variant=48251018543344
+MPU‑6050 3‑Axis Accelerometer & Gyro Sensor,2,169.00,338.00,3.76,https://makerbazar.in/products/gyroscope-sensor-mpu6050?variant=20266174021728
+2‑Pin Mini Rocker Switch – White,2,6.50,13.00,0.14,https://makerbazar.in/products/2-pin-mini-rocker-switch?variant=48251067253952
+ESP32 WROOM WiFi BLE Bluetooth IoT Node MCU Board,2,389.00,778.00,8.64,https://makerbazar.in/products/esp32-wroom-wifi-ble-bluetooth-iot-node-mcu-board?variant=48251049967856
+Flex Sensor Bend Sensor – 2.2″,10,289.00,2890.00,32.11,https://makerbazar.in/products/spectrasymbol-flex-sensor-2-2-bend-sensor-for-hand-gesture-recognition?variant=48251185070320
+Kuber Industries Unisex Cotton Hand Gloves – 1 Pair (Black),1,157.00,157.00,1.74,https://www.amazon.in/gp/product/B0CJ2N5PFW/ref=ox_sc_act_title_1?smid=A2AL6IVND0I91F&psc=1
+Geonix 8GB Micro SD Card – 150MB/s Read, 70MB/s Write,1,399.00,399.00,4.43,https://www.amazon.in/gp/product/B0FN458KWY/ref=ox_sc_act_title_2?smid=AJ6SIZC8YQDZX&psc=1
