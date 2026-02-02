@@ -5,17 +5,28 @@ it uses the gyroscope and flex sensors to find multiple words and find the word 
 This glove is for now a prototype for showcasing use.
 Both of the esp will communicate using ESP-NOW which is a wireless communication protocol which helps with both of the esp(hands) to communicate 
 
-# Circuit and Pcb
+# SCHEMATIC (NO PCB CUZ IM HAND SOLDERING THE COMPONENTS)
 
-Sorry but i couldnt find esp 32 flex sensors the gyroscope and other components. Thats why i couldnt make a circuit,pcb :(
+MAIN HAND SCHEMATIC
+<img width="912" height="553" alt="image" src="https://github.com/user-attachments/assets/f74791d5-4c22-4123-99d5-530f07bfd97c" />
+
+SLAVE HAND SCHEMATIC
+<img width="885" height="571" alt="image" src="https://github.com/user-attachments/assets/1169ca1e-57f8-4118-a58c-640b35d9c5b4" />
+
 
 # CAD 
 
-same as circuit and pcb i couldnt find all of the components together :(
+ALL TOGETHER
+<img width="576" height="469" alt="image" src="https://github.com/user-attachments/assets/a8958a85-56aa-4562-a56b-d7857dcbf6d6" />
+
+MAIN HAND
+<img width="547" height="492" alt="image" src="https://github.com/user-attachments/assets/d7660163-529b-4265-a271-ae0da647764d" />
+
+SLAVE HAND
+<img width="580" height="517" alt="image" src="https://github.com/user-attachments/assets/262e4e7b-6306-4a27-9cf9-fcdc84ef343a" />
+
 
 # BOM
-
-# Hand Sign Translator Gloves - BOM
 
 | Component                               | Quantity | Unit Price (₹) | Subtotal (₹) | Subtotal (USD) |
 |----------------------------------------|---------|----------------|---------------|----------------|
