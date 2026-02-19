@@ -15,6 +15,14 @@ MAIN HAND SCHEMATIC
 SLAVE HAND SCHEMATIC
 <img width="885" height="571" alt="image" src="https://github.com/user-attachments/assets/1169ca1e-57f8-4118-a58c-640b35d9c5b4" />
 
+# Attaching 
+
+I will be attacking them using my soldering iron i got for my hackpad and using the red and black 1mm wires that ill buy
+First i will be connecting all of the flex sensors with my gloves like this
+<img width="878" height="414" alt="image" src="https://github.com/user-attachments/assets/d76a295d-f6f3-436f-8ddc-2d54f2842fe8" />
+then i will added all of the components after soldering them
+<img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/2c172bdc-ab66-4f2b-aef5-f1baf707e76f" />
+then i will add the code so its ready
 
 # CAD 
 Public onshape link
