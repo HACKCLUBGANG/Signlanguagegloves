@@ -5,6 +5,8 @@ it uses the gyroscope and flex sensors to find multiple words and find the word 
 This glove is for now a prototype for showcasing use.
 Both of the esp will communicate using ESP-NOW which is a wireless communication protocol which helps with both of the esp(hands) to communicate 
 
+I am making this project for people who are mute so they can communicate normally with others because i noticed that
+in a school near me there are many students who cannot speak or communicate normally so i decided to make these!
 # SCHEMATIC (NO PCB CUZ IM HAND SOLDERING THE COMPONENTS)
 
 MAIN HAND SCHEMATIC
@@ -15,6 +17,8 @@ SLAVE HAND SCHEMATIC
 
 
 # CAD 
+Public onshape link
+https://cad.onshape.com/documents/6ecba3e74dfe53e9a8bfac83/w/1683529a0d41698218650535/e/e6d6e70836869b79d66bebbd?renderMode=0&uiState=69969a96cfc406eb2f290250
 
 ALL TOGETHER
 <img width="576" height="469" alt="image" src="https://github.com/user-attachments/assets/a8958a85-56aa-4562-a56b-d7857dcbf6d6" />
