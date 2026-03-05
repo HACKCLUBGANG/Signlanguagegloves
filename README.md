@@ -20,7 +20,7 @@ SLAVE HAND SCHEMATIC
 I will be attacking them using my soldering iron i got for my hackpad and using the red and black 1mm wires that ill buy
 First i will be connecting all of the flex sensors with my gloves like this
 <img width="878" height="414" alt="image" src="https://github.com/user-attachments/assets/d76a295d-f6f3-436f-8ddc-2d54f2842fe8" />
-then i will added all of the components after soldering them
+then i will added all of the components after soldering them I WILL ATTACH THEM USING MY THREAD AND SEWING NEEDLE
 <img width="796" height="408" alt="image" src="https://github.com/user-attachments/assets/2c172bdc-ab66-4f2b-aef5-f1baf707e76f" />
 then i will add the code so its ready
 
@@ -59,3 +59,32 @@ SLAVE HAND
 | Kuber Industries Unisex Cotton Hand Gloves – 1 Pair (Black) | 1 | 157.00 | 157.00 | 1.74 | [Link](https://www.amazon.in/gp/product/B0CJ2N5PFW/ref=ox_sc_act_title_1?smid=A2AL6IVND0I91F&psc=1) |
 | Geonix 8GB Micro SD Card – 150MB/s Read, 70MB/s Write | 1 | 399.00 | 399.00 | 4.43 | [Link](https://www.amazon.in/gp/product/B0FN458KWY/ref=ox_sc_act_title_2?smid=AJ6SIZC8YQDZX&psc=1) |
 | **Total** | | | **5,979 ₹** | **~66.43 USD** | |
+
+
+# HOW TO ASSEMBLE. (Detailed video if i get to make it phyically)
+
+FOR THIS TUTORIAL WE WILL BE USING A SEWING NEEDLE AND ANY COLOR THREAD YOU CAN USE GLUE BUT IT DOESNT WORK FOR LONG.
+
+first you have to solder all of the components refering to the schematics i have uploaded
+ 
+Then you have to attack them in this way or any way you prefer. (black lines for threads)
+<img width="637" height="439" alt="image" src="https://github.com/user-attachments/assets/75a345c3-2c38-4e51-ab72-ae9062b4ae79" />
+<img width="470" height="368" alt="image" src="https://github.com/user-attachments/assets/b1845f66-28c4-4d94-b4ac-0c2204a28215" />
+<img width="846" height="340" alt="image" src="https://github.com/user-attachments/assets/a4ff266a-1825-4f3e-aa9c-492f64d5aed6" />
+
+
+# TIPS
+
+You should keep the gyroscope in the middle of the hand as in the picture so that it can read the movement properly of your hands.
+<img width="592" height="453" alt="image" src="https://github.com/user-attachments/assets/7de08daf-1a24-4512-88fa-5cd8805a1f0a" />
+
+WHEN USING ESP NOW you should probably watch a video about it so that you can clear some doubts if they ask.
+heres a good video about esp now
+https://youtu.be/qxwXwNS3Avw?si=62WnC090kG_BqJUU
+
+
+
+
+
+
+
