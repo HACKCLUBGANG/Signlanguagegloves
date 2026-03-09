@@ -82,10 +82,9 @@ WHEN USING ESP NOW you should probably watch a video about it so that you can cl
 heres a good video about esp now
 https://youtu.be/qxwXwNS3Avw?si=62WnC090kG_BqJUU
 
-# FLASHING FIRMWARE
-
-
-
+# FLASHING FIRMWARE (IMPORTANT)
+THIS IS THE main part of this tutorial so basically flashing firmware is sending the code to the dev modules in this case were using esp 32's
+So download the firmware from the FIRMWARE folder for the left hand its DOMINANT HAND.INO and for right its INDOMINANT HAND.
 
 
 
