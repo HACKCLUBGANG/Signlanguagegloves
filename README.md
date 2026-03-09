@@ -82,6 +82,7 @@ WHEN USING ESP NOW you should probably watch a video about it so that you can cl
 heres a good video about esp now
 https://youtu.be/qxwXwNS3Avw?si=62WnC090kG_BqJUU
 
+# FLASHING FIRMWARE
 
 
 
