@@ -48,7 +48,7 @@ SLAVE HAND
 | Carbon Film Resistor DIP 1/4W 10kΩ / Pack of 20 | 1 | 15.00 | 15.00 | 0.17 | [Link](https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm?variant=47248529621232) |
 | 1.3″ I2C/IIC OLED Display Module – White | 2 | 359.00 | 718.00 | 7.98 | [Link](https://makerbazar.in/products/oled-display-1-3-inch-white?variant=48251187364080) |
 | TC4056 1A 5V‑6V Lithium Battery Charging Module – Type‑C | 2 | 25.00 | 50.00 | 0.56 | [Link](https://makerbazar.in/products/tc4056-1a-5v-6v-4-2v-micro-usb-with-current-protection-lithium-battery-charging-module?variant=48251130937584) |
-|	WLY102040 3.7V 800mAh 1S LiPo Battery – Micro Rechargeable Battery Pack for Wearables / Micro Drone / IoT | 2 | 199.00 | 398.00 | 4.42 | [Link]([https://makerbazar.in/products/kp-423048-lipo-battery-single-cell-3-7-v-1000mah-lithium-polymer-battery?variant=48251177566448](https://robu.in/cart/) |
+|	WLY102040 3.7V 800mAh 1S LiPo Battery – Micro Rechargeable Battery Pack for Wearables / Micro Drone / IoT | 2 | 199.00 | 398.00 | 4.42 | [Link] ()|
 | Mini MP3 Player Disk TF Card Module – Serial Port | 1 | 119.00 | 119.00 | 1.32 | [Link](https://makerbazar.in/products/mini-df-mp3-player-module?variant=48251018543344) |
 | MPU‑6050 3‑Axis Accelerometer & Gyro Sensor | 2 | 169.00 | 338.00 | 3.76 | [Link](https://makerbazar.in/products/gyroscope-sensor-mpu6050?variant=20266174021728) |
 | 2‑Pin Mini Rocker Switch – White | 2 | 6.50 | 13.00 | 0.14 | [Link](https://makerbazar.in/products/2-pin-mini-rocker-switch?variant=48251067253952) |
