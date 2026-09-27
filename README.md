@@ -61,6 +61,8 @@ SLAVE HAND
 
 # HOW TO ASSEMBLE. (Detailed video if i get to make it phyically)
 
+FIRST MAKE 10 FLEX SENSORS 
+[https://www.youtube.com/watch?v=b7zT94WV=](https://youtu.be/b7zT94WV-Ek?si=iI07FGgMa6GiiBBv)
 FOR THIS TUTORIAL WE WILL BE USING A SEWING NEEDLE AND ANY COLOR THREAD YOU CAN USE GLUE BUT IT DOESNT WORK FOR LONG.
 
 first you have to solder all of the components refering to the schematics i have uploaded
