@@ -40,23 +40,41 @@ SLAVE HAND
 
 # BOM
 
-| Component | Quantity | Unit Price (₹) | Subtotal (₹) | Subtotal (USD) | Website |
-|-----------|----------|----------------|--------------|----------------|---------|
-| Metal Shell Mini Internal Magnet Toy Speaker – 28mm 8Ω 1W | 1 | 23.00 | 23.00 | 0.26 | [Link](https://makerbazar.in/products/metal-shell-mini-speake-internal-magnet-toy-speaker?variant=48772028072176) |
-| Red Heat Shrink Sleeve Tube – 2mm / 1m | 2 | 10.00 | 20.00 | 0.22 | [Link](https://makerbazar.in/products/heat-shrink-tube-red-in-meters?variant=40113577132183) |
-| Black Heat Shrink Sleeve Tube – 2mm / 1m | 2 | 8.00 | 16.00 | 0.18 | [Link](https://makerbazar.in/products/heat-shrink?variant=19627635212384) |
-| Carbon Film Resistor DIP 1/4W 10kΩ / Pack of 20 | 1 | 15.00 | 15.00 | 0.17 | [Link](https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm?variant=47248529621232) |
-| 1.3″ I2C/IIC OLED Display Module – White | 2 | 359.00 | 718.00 | 7.98 | [Link](https://makerbazar.in/products/oled-display-1-3-inch-white?variant=48251187364080) |
-| TC4056 1A 5V‑6V Lithium Battery Charging Module – Type‑C | 2 | 25.00 | 50.00 | 0.56 | [Link](https://makerbazar.in/products/tc4056-1a-5v-6v-4-2v-micro-usb-with-current-protection-lithium-battery-charging-module?variant=48251130937584) |
-|	WLY102040 3.7V 800mAh 1S LiPo Battery – Micro Rechargeable Battery Pack for Wearables / Micro Drone / IoT | 2 | 199.00 | 398.00 | 4.42 | [Link] ()|
-| Mini MP3 Player Disk TF Card Module – Serial Port | 1 | 119.00 | 119.00 | 1.32 | [Link](https://makerbazar.in/products/mini-df-mp3-player-module?variant=48251018543344) |
-| MPU‑6050 3‑Axis Accelerometer & Gyro Sensor | 2 | 169.00 | 338.00 | 3.76 | [Link](https://makerbazar.in/products/gyroscope-sensor-mpu6050?variant=20266174021728) |
-| 2‑Pin Mini Rocker Switch – White | 2 | 6.50 | 13.00 | 0.14 | [Link](https://makerbazar.in/products/2-pin-mini-rocker-switch?variant=48251067253952) |
-| ESP32 WROOM WiFi BLE Bluetooth IoT Node MCU Board | 2 | 389.00 | 778.00 | 8.64 | [Link](https://makerbazar.in/products/esp32-wroom-wifi-ble-bluetooth-iot-node-mcu-board?variant=48251049967856) |
-| Flex Sensor Bend Sensor – 2.2″ | 10 | 289.00 | 2890.00 | 32.11 | [Link](https://makerbazar.in/products/spectrasymbol-flex-sensor-2-2-bend-sensor-for-hand-gesture-recognition?variant=48251185070320) |
-| Kuber Industries Unisex Cotton Hand Gloves – 1 Pair (Black) | 1 | 157.00 | 157.00 | 1.74 | [Link](https://www.amazon.in/gp/product/B0CJ2N5PFW/ref=ox_sc_act_title_1?smid=A2AL6IVND0I91F&psc=1) |
-| Geonix 8GB Micro SD Card – 150MB/s Read, 70MB/s Write | 1 | 399.00 | 399.00 | 4.43 | [Link](https://www.amazon.in/gp/product/B0FN458KWY/ref=ox_sc_act_title_2?smid=AJ6SIZC8YQDZX&psc=1) |
-| **Total** | | | **5,979 ₹** | **~66.43 USD** | |
+| # | Component | Quantity | Unit Price (₹) | Subtotal (₹) | Website |
+|---:|---|---:|---:|---:|---|
+| 1 | Generic 3.7V 1000mAh LiPo Battery – 403048 | 2 | 149.00 | 298.00 | [MakerBazar](https://makerbazar.in/products/generic-3-7v-1000mah-lithium-polymer-battery-single-cell) |
+| 2 | Super Enameled Copper Wire – 28 SWG / 0.37mm / 5m | 1 | 29.00 | 29.00 | [MakerBazar](https://makerbazar.in/products/super-enameled-copper-wire-roll) |
+| 3 | Black Heat Shrink – 2mm / 2m | 1 | 14.00 | 14.00 | [MakerBazar](https://makerbazar.in/products/heat-shrink) |
+| 4 | Conductive Aluminium Foil Tape – 5mm × 5m | 1 | 49.00 | 49.00 | [MakerBazar](https://makerbazar.in/products/conductive-aluminium-foil-tape-roll) |
+| 5 | ESP32 WROOM – CH340C / Type-C / 30-pin | 2 | 429.00 | 858.00 | [MakerBazar](https://makerbazar.in/products/esp32-wroom-wifi-ble-bluetooth-iot-node-mcu-board) |
+| 6 | 2-Pin Mini Rocker Switch – White | 2 | 6.50 | 13.00 | [MakerBazar](https://makerbazar.in/products/2-pin-mini-rocker-switch) |
+| 7 | MPU-6050 3-Axis Accelerometer + Gyro | 2 | 169.00 | 338.00 | [MakerBazar](https://makerbazar.in/products/gyroscope-sensor-mpu6050) |
+| 8 | Mini MP3 Player / DFPlayer – Type 1 | 1 | 119.00 | 119.00 | [MakerBazar](https://makerbazar.in/products/mini-df-mp3-player-module) |
+| 9 | TC4056 1A Type-C Li-ion/LiPo Charger + Protection | 2 | 25.00 | 50.00 | [MakerBazar](https://makerbazar.in/products/tc4056-1a-5v-6v-4-2v-micro-usb-with-current-protection-lithium-battery-charging-module) |
+| 10 | 1.3″ I2C/IIC OLED – White / SSH1106 | 2 | 359.00 | 718.00 | [MakerBazar](https://makerbazar.in/products/oled-display-1-3-inch-white) |
+| 11 | 10kΩ ¼W Carbon Film Resistor – Pack of 20 | 1 | 15.00 | 15.00 | [MakerBazar](https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm) |
+| 12 | Black Heat Shrink – 1mm / 2m | 1 | 11.00 | 11.00 | [MakerBazar](https://makerbazar.in/products/heat-shrink) |
+| 13 | Red Heat Shrink – 2mm / 1m | 1 | 10.00 | 10.00 | [MakerBazar](https://makerbazar.in/products/heat-shrink-tube-red-in-meters) |
+| 14 | Metal Shell Mini Speaker – 28mm / 8Ω / 1W | 1 | 23.00 | 23.00 | [MakerBazar](https://makerbazar.in/products/metal-shell-mini-speake-internal-magnet-toy-speaker) |
+| 15 | Geonix 8GB MicroSD Card – GXNSD8GB | 1 | 479.00 | 479.00 | [Amazon India](https://www.amazon.in/gp/product/B0FN458KWY/) |
+| 16 | Kuber Industries Cotton Hand Gloves – Black / 1 Pair | 1 | 157.00 | 157.00 | [Amazon India](https://www.amazon.in/gp/product/B0CJ2N5PFW/) |
+| | **GRAND TOTAL** | | | **₹3,181.00** | |
+
+## Cost Summary
+
+- **MakerBazar:** ₹2,545
+- **Amazon:** ₹636
+- **Grand Total:** **₹3,181**
+- **Approx. USD:** **$35.34**
+
+## Notes
+
+- Commercial flex sensors have been removed.
+- DIY flex sensors will be made using **conductive aluminium foil tape**.
+- The **10kΩ resistor pack** provides enough resistors for up to 20 voltage-divider sensors.
+- The **DFPlayer + MicroSD + 28mm speaker** provides the audio system.
+- Two ESP32 boards and two MPU-6050 modules are included.
+- Two 1000mAh LiPo batteries and two TC4056 charging modules are included.
 
 
 # HOW TO ASSEMBLE. (Detailed video if i get to make it phyically)
